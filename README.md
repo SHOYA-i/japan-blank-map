@@ -1,6 +1,6 @@
-# japan-blank-map — 日本の白地図・地方区分図スキル
+# japan-blank-map — 日本の白地図・地方区分図描画スキル
 
-Claude 用の Agent Skill です。「日本の白地図を作って」「8地方区分で塗り分けて」「関東だけ切り出して県名を入れて」と頼むと、都道府県境つきの日本地図を PNG / SVG / PDF で作ります。
+Claude 用の Agent Skill です。「日本の白地図を作って」「8地方区分で塗り分けて」「関東だけ切り出して県名を入れて」と頼むと、都道府県境つきの日本地図を PNG / SVG / PDF で作成します。
 
 *An Agent Skill for Claude that draws blank maps of Japan with prefecture borders, regional-division maps, and cropped regional maps (PNG / SVG / PDF). Documentation is in Japanese.*
 
