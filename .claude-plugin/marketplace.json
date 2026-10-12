@@ -1,0 +1,19 @@
+{
+  "name": "japan-blank-map",
+  "owner": {
+    "name": "SHOYA-i"
+  },
+  "metadata": {
+    "description": "日本の白地図・地方区分図・塗り分け図を作る Agent Skill",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "japan-blank-map",
+      "description": "日本の白地図(都道府県境つき)・地方区分図・塗り分け図・特定地方の切り出し図を PNG / SVG / PDF で作る",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/japan-blank-map"]
+    }
+  ]
+}
